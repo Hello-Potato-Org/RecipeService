@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeServiceAPI", "RecipeServiceAPI\RecipeServiceAPI.csproj", "{39418334-59D9-4773-9B1C-D3249CE7E1F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeServiceAPI.test", "recipeserviceapi.test\RecipeServiceAPI.test.csproj", "{0E9F79DE-83A0-4AB3-BBE4-31C8CD85A031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39418334-59D9-4773-9B1C-D3249CE7E1F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39418334-59D9-4773-9B1C-D3249CE7E1F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39418334-59D9-4773-9B1C-D3249CE7E1F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39418334-59D9-4773-9B1C-D3249CE7E1F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9F79DE-83A0-4AB3-BBE4-31C8CD85A031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9F79DE-83A0-4AB3-BBE4-31C8CD85A031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9F79DE-83A0-4AB3-BBE4-31C8CD85A031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9F79DE-83A0-4AB3-BBE4-31C8CD85A031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
